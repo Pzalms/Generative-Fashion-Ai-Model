@@ -15,7 +15,3 @@ This repository contains code for training a Generative Adversarial Network (GAN
 
 The model was created in the python notebook
 ``
-
-## Credits
-
-This project was inspired by various tutorials and resources on GANs and TensorFlow.
